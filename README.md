@@ -100,8 +100,5 @@ Problem-Solving, Project Planning, Freelancing, Client Communication
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AbhishekPandey5001/AbhishekPandey5001/output/github-snake.svg" />
 </picture>
 
-<!-- Optional: Animated GIF -->
-![GitHub Snake Ocean](https://github.com/AbhishekPandey5001/AbhishekPandey5001/raw/output/ocean.gif)
-
 
 
