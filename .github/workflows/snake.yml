@@ -1,12 +1,12 @@
 name: GitHub Snake Game
 
+permissions:
+  contents: write
+
 on:
-  # Runs every day at midnight UTC
   schedule:
     - cron: "0 0 * * *"
-  # Allows manual workflow run
   workflow_dispatch:
-  # Runs on push to main branch
   push:
     branches:
       - main
@@ -19,7 +19,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
         with:
-          ref: main  # Ensure this matches your default branch
+          ref: main
 
       - name: Generate GitHub Contributions Snake
         uses: Platane/snk@v3
