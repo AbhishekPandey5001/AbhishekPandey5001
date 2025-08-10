@@ -90,6 +90,13 @@ Problem-Solving, Project Planning, Freelancing, Client Communication
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekPandey5001&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FaiqaN27&theme=gruvbox&no-bg=true&no-frame=true" alt="GitHub Trophy" />
+</p>
 
 ---
 ## 🐍 GitHub Contribution Snake
