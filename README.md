@@ -95,10 +95,12 @@ Problem-Solving, Project Planning, Freelancing, Client Communication
 
 ## 🐍 GitHub Contribution Snake
 <!-- Light mode -->
-![GitHub Snake Light](https://github.com/AbhishekPandey5001/About/raw/output/github-snake.svg#gh-light-mode-only)  
 
-<!-- Dark mode -->
-![GitHub Snake Dark](https://github.com/AbhishekPandey5001/About/raw/output/github-snake-dark.svg#gh-dark-mode-only)  
 
-<!-- Ocean gif (optional) -->
-![GitHub Snake Ocean](https://github.com/AbhishekPandey5001/About/raw/output/ocean.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhishekPandey5001/AbhishekPandey5001/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhishekPandey5001/AbhishekPandey5001/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AbhishekPandey5001/AbhishekPandey5001/output/github-snake.svg" />
+</picture>
+
+
