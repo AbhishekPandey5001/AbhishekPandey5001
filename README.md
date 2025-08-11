@@ -10,6 +10,10 @@
 <h2 align="center">👨‍💻 Compile. Crash. Debug. Repeat.</h2>
 
 ---
+## 😂 Dev Jokes
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+
+---
 
 ## 🙋‍♂️ About Me
 I’m a passionate and self-motivated **Full-Stack .NET Developer** who loves transforming ideas into **interactive and visually appealing digital experiences**.  
@@ -61,6 +65,10 @@ Problem-Solving, Project Planning, Freelancing, Client Communication
   A desktop application allowing users to register complaints with **image uploads**, track complaint status, and generate reports.
 
 ---
+
+## 🌍 3D Contribution Graph
+![3D Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 ## 🆕 Latest Projects
 *(Updated automatically via GitHub API)*
