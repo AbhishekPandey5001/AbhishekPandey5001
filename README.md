@@ -65,9 +65,8 @@ Problem-Solving, Project Planning, Freelancing, Client Communication
   A desktop application allowing users to register complaints with **image uploads**, track complaint status, and generate reports.
 
 ---
-
 ## 🌍 3D Contribution Graph
-![3D Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+![3D Graph](https://raw.githubusercontent.com/AbhishekPandey5001/github-profile-3d-contrib/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 
 ## 🆕 Latest Projects
