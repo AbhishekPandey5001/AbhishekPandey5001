@@ -1,5 +1,7 @@
-<img src="AbhishekPandey.png" alt="GitHub Banner" width="100%" />
+![logo](https://github.com/AbhishekPandey5001/AbhishekPandey5001/blob/main/AbhishekPandey.png)
+<img align ="right" alt="CodingGif" width="40%" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
+---
 <!-- Typing Animation -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -10,7 +12,7 @@
 <h2 align="center">👨‍💻 Compile. Crash. Debug. Repeat.</h2>
 
 ---
-## 😂 Dev Jokes
+## 😂 Fun Zone
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
 ---
@@ -23,10 +25,11 @@ I’m not just a developer — I’m a **problem-solver** who enjoys **finding e
 
 ---
 
-### 🔭 Currently Working On
-- ASP.NET Web Forms projects  
-- VB.NET Windows Forms applications  
-- JavaScript mini-projects  
+### 🔭 Current Focus
+- Building dynamic features in legacy ASP.NET Web Forms apps
+- Enhancing desktop tools using VB.NET for enterprise clients
+- Experimenting with JavaScript for UI micro-interactions
+
 
 ### 🌱 Currently Learning
 - Advanced Data Structures  
@@ -37,10 +40,27 @@ I’m not just a developer — I’m a **problem-solver** who enjoys **finding e
 ### 💬 Ask Me About
 - SQL Server, VB.NET, ASP.NET Web Forms, HTML, CSS, JavaScript  
 - Building complete full-stack applications  
+---
 
-📫 **Email me:** [abhishek12345ap6@gmail.com](mailto:abhishek12345ap6@gmail.com)  
+## 🤝 Let’s Connect!
+
+If you’re looking for a **dedicated .NET developer** to bring your next idea to life or collaborate on exciting projects — **let’s chat**!
+
+📩 [abhishek12345ap6@gmail.com](mailto:abhishek12345ap6@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/abhishek-pandey-251b012a6/)
 
 ---
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/Itsmeabhi9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishek12345ap6@gmail.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhishek-pandey-251b012a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-pandey-251b012a6" height="30" width="40" /></a>
+<a href="https://fb.com/abhishek12345ap6@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhishek12345ap6@gmail.com" height="30" width="40" /></a>
+<a href="https://instagram.com/abhishek12345ap6@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishek12345ap6@gmail.com" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/itsmeabhi226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="itsmeabhi226" height="30" width="40" /></a>
+</p>
+
 
 ## 🛠 SEO-Friendly Skills & Technologies
 
@@ -65,12 +85,10 @@ Problem-Solving, Project Planning, Freelancing, Client Communication
   A desktop application allowing users to register complaints with **image uploads**, track complaint status, and generate reports.
 
 ---
-## 🌍 3D Contribution Graph
-![3D Graph](https://raw.githubusercontent.com/AbhishekPandey5001/github-profile-3d-contrib/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 
 ## 🆕 Latest Projects
-*(Updated automatically via GitHub API)*
+
 
 <!-- LATEST-PROJECTS:START -->
 - [Book Store System](https://github.com/AbhishekPandey5001/Book-Store-System) – ASP.NET + SQL Server e-commerce platform
@@ -102,17 +120,19 @@ Problem-Solving, Project Planning, Freelancing, Client Communication
 ## 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FaiqaN27&theme=gruvbox&no-bg=true&no-frame=true" alt="GitHub Trophy" />
+ 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekpandey5001" alt="abhishekpandey5001" /></a> </p>
+
 </p>
 
 ---
 ## 🐍 GitHub Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhishekPandey5001/AbhishekPandey5001/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhishekPandey5001/AbhishekPandey5001/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AbhishekPandey5001/AbhishekPandey5001/output/github-snake.svg" />
-</picture>
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 
