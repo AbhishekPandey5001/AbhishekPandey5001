@@ -120,10 +120,11 @@ Problem-Solving, Project Planning, Freelancing, Client Communication
 ## 🏆 GitHub Trophy
 
 <p align="center">
- 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekpandey5001" alt="abhishekpandey5001" /></a> </p>
+  
+![](https://github-trophies.vercel.app/?username=AbhishekPandey5001&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 </p>
+
 
 ---
 ## 🐍 GitHub Contribution Snake
